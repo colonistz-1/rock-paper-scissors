@@ -1,0 +1,22 @@
+body{
+    font-family: "Spline Sans Mono", monospace;
+    background-color: rgba(102, 94, 249, 0.23);
+}
+.head{
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10%;
+}
+.btn {
+    height: 50%;
+    background-color: transparent;
+    border: none;
+}
